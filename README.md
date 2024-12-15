@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mr.Jane 
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Go Python 
+- 🌱 I’m currently Re-learning Javascript etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
